@@ -17,25 +17,25 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election shows: 
 -There were 367,711 votes cast in the election.
 
-The candidates were:
+- The candidates were:
 
-  -Charles Casper Stockham
+  - Charles Casper Stockham
 
-  -Diana DeGette
+  - Diana DeGette
   
-  -Raymon Anthony Doane
+  - Raymon Anthony Doane
 
-The candidate results were: 
+- The candidate results were: 
 
-  -Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
   
-  -Diana DeGette received 73.8% of the vote and 272,892 votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 votes.
   
-  -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
   
-The winner of the election was: 
+- The winner of the election was: 
 
-  -Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
 ## Challenge Overview
 The challenge was an exercise in creating scripts that read, write, and store data from files. Mathematical operations were performed. This code includes decision statements, logical operations, and repetition statements to run code more than once. Finally, screen outputs were produced and a text file with results was written.
